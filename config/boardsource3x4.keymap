@@ -19,7 +19,6 @@
 &trans        &trans        &trans        &trans
 &kp A         &kp B         &kp CAPSLOCK  &kt CAPSLOCK
             >;
-
         };
 
         num_layer {
@@ -29,6 +28,5 @@
 &kp N1          &kp NUMBER_2  &kp N3       &kp N4
             >;
         };
-
     };
 };
