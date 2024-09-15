@@ -14,17 +14,17 @@
 
         default_layer {
             bindings = <
-&to 1         &bt BT_SEL 0  &bt BT_SEL 1  &to 1
-&BT_CLR       &trans        &trans        &trans
-&kp A         &kp B         &kp CAPSLOCK  &OUT_TOG
+&to 1         &bt BT_SEL 0   &bt BT_SEL 1    &to 1
+&BT_CLR       &trans         &trans          &trans
+&kp A         &kp B          &kp CAPSLOCK    &OUT_TOG
             >;
         };
 
         num_layer {
             bindings = <
-&bootloader     &trans        &trans       &trans
-&trans          &trans        &trans       &trans
-&kp N1          &kp NUMBER_2  &kp N3       &kp N4
+&bootloader     &trans         &trans       &trans
+&trans          &trans         &trans       &trans
+&kp N1          &kp NUMBER_2   &kp N3       &kp N4
             >;
         };
     };
